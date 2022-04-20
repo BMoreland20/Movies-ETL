@@ -135,3 +135,4 @@ ZipFile/credits.csv
 ZipFile/archive.zip
 Resources/ratings.csv
 Resources/movies_metadata.csv
+config.py
